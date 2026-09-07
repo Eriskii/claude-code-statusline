@@ -17,7 +17,7 @@ ctx ████┼██░░░░░░░░░░░░░  35% | 5h █�
 1. Copy the script somewhere, e.g. `~/.claude/statusline.sh`:
 
    ```bash
-   curl -o ~/.claude/statusline.sh https://raw.githubusercontent.com/Isolyth/claude-code-statusline/main/statusline.sh
+   curl -o ~/.claude/statusline.sh https://raw.githubusercontent.com/Eriskii/claude-code-statusline/main/statusline.sh
    chmod +x ~/.claude/statusline.sh
    ```
 
